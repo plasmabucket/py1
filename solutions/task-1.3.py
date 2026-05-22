@@ -43,7 +43,7 @@ weapon1.name = "Imp. Plasma Rifle"
 weapon1.mass = 3
 
 # Оружие 2
-weapon2 = weapon1  # вместо копии делаем простое присваивание переменной
+weapon2: RoboPart = weapon1  # вместо копии делаем простое присваивание переменной
 
 # Робот
 enemy: Robot = Robot()
