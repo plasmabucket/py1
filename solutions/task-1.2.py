@@ -86,12 +86,12 @@ grid[1][1].robot = enemy
 
 
 # Вывод сетки на экран
-for i in range(3):
-    for j in range(3):
+for i in range(len(grid)):
+    for j in range(len(grid[0])):
         print(grid[i][j].texture, end="")
     print()
 
 # Вывод инвентаря робота
 print("===", enemy.name, "===")
-for i in range(3):
+for i in range(len(enemy.parts)):
     print(enemy.parts[i].name, "-", enemy.parts[i].integrity)
