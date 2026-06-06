@@ -1,0 +1,7 @@
+Heavy H-12:AGGRESSIVE:100:100:6
+Worker W-05:WORKING:50:50:4
+Error E-01:It has too many fields:3:4:5:6
+Error E-02:String instead of:int:4:5
+Error E-03::3:4:5
+Error E-04:Incorrect core_int:-1:4:5
+Spotter S-15:PATROLLING:20:100:2

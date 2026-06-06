@@ -1,0 +1,5 @@
+Heavy H-12:AGGRESSIVE:100:100:6
+Worker W-05:WORKING:50:50:4
+Escaped colon\:another one\:3:4:5
+Second escape\\:attempt\\:3:4:5
+Spotter S-15:PATROLLING:20:100:2

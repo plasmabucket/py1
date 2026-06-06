@@ -1,0 +1,5 @@
+Heavy H-12:AGGRESSIVE:100:100:6
+Worker W-05:WORKING:50:50:4
+Double quote":"Double quote":3:4:5
+Single quote':'Single quote':3:4:5
+Spotter S-15:PATROLLING:20:100:2
